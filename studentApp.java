@@ -2,7 +2,7 @@ package studentCourseManagementApp;
 
 import java.util.Scanner;
 
-public class studentDatabaseApp {
+public class studentApp {
 
 	public static void main(String[] args) {
 		
